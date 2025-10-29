@@ -1,0 +1,6 @@
+[submodule "python_basics"]
+	path = python_basics
+	url = https://github.com/sunnyV0207/data-visualization-python-basics
+[submodule "excel_basics"]
+	path = excel_basics
+	url = https://github.com/sunnyV0207/data-visualization-excel-basics
